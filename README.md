@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/brunosantoslab-spring-mcp-bridge-badge.png)](https://mseep.ai/app/brunosantoslab-spring-mcp-bridge)
+
 # Spring MCP Bridge
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
